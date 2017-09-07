@@ -9,3 +9,4 @@ Git is free software distributed under the GPL.
 My stupid boss still prefers SVN.
 yes this is a insert line
 Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
